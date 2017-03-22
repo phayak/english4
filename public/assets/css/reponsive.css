@@ -1,0 +1,92 @@
+
+@media screen and (max-width: 768px) {
+	body .animated {
+		animation-duration: 0s;
+	}
+   	.footer-dash {
+		display: none;
+   	}
+   	.home-avatar-landing {
+   		position: absolute;
+   		margin-top: 20px;
+   		margin-left: 75px;
+   	}
+   	.bg-box-1 {
+   		margin-top: -50px;
+   	}
+   	.bg-box-1 .title .testlearn {
+   		margin-left: 20px;
+   	}
+   	.bg-box-1 .title .testlearn-more  {
+   		margin-left: 15px;
+   	}
+   	.bg-box-1 .video .video-link {
+   		margin-top: 170px;
+   		text-align: center;
+   		margin-left: 70px;
+   	}
+   	.bg-box-1 .count-student .count {
+   		float: left;
+   		margin-left: 40px;
+   	}
+   	.avatar-english-footer img {
+   		margin-left: 190px;
+    	margin-top: -10px;
+   	}
+   	.footer-facebook {
+   		margin-top: 20px;
+   	}
+   	.package-class1,.package-class2,.package-class3,.package-class4 {
+   		margin-top: 20px;
+   	}
+   	.site-header-content {
+   		display: none;
+   	}
+   	.site-header .site-logo img {
+	    float: left;
+	    height: 40px;
+	    width: 60px;
+	    left: -30px;
+	}
+	.site-header {
+		height: 60px;
+	}
+	.site-header .hamburger {
+	    float: left;
+	    position: relative;
+	    top: -8px;
+	    left: -30px;
+	}
+	.title-top {
+		font-size: 25px !important;
+	}
+	.title-top-step {
+	    margin-top: 30px;
+	    text-align: center;
+	    line-height: 40px;
+	}
+	.title-top-step .eng-step {
+		margin-top: 10px;
+	}
+	.title-top-step .step-4  {
+		font-size: 60px;
+	}
+
+	.step1-squre {
+		position: absolute;
+		float: left	;
+		left: 46%;
+	}
+	.step1-text {
+		margin-top: 50px;
+		text-align: center;
+		margin-left: 60px;
+	}
+	.center{
+		text-align: center !important;
+	}
+	.bg-bottom-footer {
+		font-size: 15px;
+	}
+}
+
